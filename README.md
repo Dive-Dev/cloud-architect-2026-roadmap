@@ -52,6 +52,7 @@ This repository is designed to help students and developers transition into **Cl
 
 ## 📂 Repository Structure
 
+```bash
 cloud-architect-2026-roadmap/
 │
 ├── 01-foundations/
@@ -62,6 +63,7 @@ cloud-architect-2026-roadmap/
 ├── 06-certifications/
 ├── 07-career-guide/
 └── resources/
+```
 
 ---
 
